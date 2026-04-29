@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+.cursor/
+
+.streamlit/secrets.toml
+
+*.log
+*.tmp
